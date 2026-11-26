@@ -1,0 +1,35 @@
+DASAR*/
+.{
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+    font-family: Arial, Sans-Serif;
+    background linear-gradient(180deg,#B1C9EF 100%);
+    color:black;
+}
+/* HEADER */
+header {
+    background-color: #B1C9EF;
+    color:balck;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+/*NAVBAR*/
+.navbar {
+background-color:white;
+color: black;
+display: flex;
+justify-content: justify-content;
+padding: 15px;
+align-items: center;
+max-width: 100%;
+margin:0 auto;
+position:static;
+top:0;
+z-index: 1000;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+border-radius:10px;
+}
